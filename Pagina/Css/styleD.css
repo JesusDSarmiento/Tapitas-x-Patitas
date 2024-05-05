@@ -18,7 +18,8 @@
   .primariox{color:#D84E4E;}
 
   body{
-    background-image: url(https://cdn.discordapp.com/attachments/875486417613107236/1026936322318925986/unknown.png);
+    background-color: var(--azul2);
+    /*background-image: url(https://cdn.discordapp.com/attachments/875486417613107236/1026256083695706174/unknown.png);*/
     font-family: 'Montserrat',sans-serif;
     font-size: 22px;
     background-size: cover;
@@ -263,7 +264,7 @@ background:#e34a4a;
     width: 100%;
     height:533px;
     box-shadow: 0 2rem 2rem 0 rgba(0, 0, 0, 0.25);
-    background-image:url(https://cdn.discordapp.com/attachments/875486417613107236/1027022797802844240/PortadaDonaciones.jpg);
+    background-image:url(https://cdn.discordapp.com/attachments/875486417613107236/1026224827192840262/unknown.png?ex=66389099&is=66373f19&hm=912148d8ac728d1b0a5fc301648a4c145beee2e11b424b7d1e269592436665c4&);
     background-position: center;
     background-size: 100% 100%;
     background-color: #fff;

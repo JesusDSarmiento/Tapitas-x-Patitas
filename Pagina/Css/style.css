@@ -23,7 +23,9 @@
   }
 
   body{
-    background-image: url(https://cdn.discordapp.com/attachments/875486417613107236/1026256083695706174/unknown.png);
+    
+    /*background-color: var(--azul2);*/
+    background-image: url(https://media.discordapp.net/attachments/875486417613107236/1026256083695706174/unknown.png?ex=6638adb5&is=66375c35&hm=2122f8279e466c04877d2fdf4e8da85a789adab6e4996a6495fa7ca929d6caaa&=&format=webp&quality=lossless&width=249&height=657);
     font-family: 'Montserrat',sans-serif;
     font-size: larger;
     background-size: contain;
